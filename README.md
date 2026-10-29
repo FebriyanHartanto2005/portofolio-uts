@@ -7,7 +7,7 @@
 - **Kelas:** [Isi Kelas Lu, misal: TI-2A]
 
 ## Tautan Publik (Vercel)
-🔗 [https://portofolio-uts-lu.vercel.app](https://portofolio-uts-lu.vercel.app)
+🔗🔗 [https://portofolio-uts-ten.vercel.app](https://portofolio-uts-ten.vercel.app)
 *(Catatan: Fitur PHP tidak berjalan di Vercel karena batasan hosting statis. Demo PHP tersedia di bawah.)*
 
 ---
